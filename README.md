@@ -18,7 +18,8 @@ A ROS 2 Python node that drives a **TurtleBot3 Burger** through a maze in Gazebo
   <img src="docs/images/maze_overview.png" alt="The maze in Gazebo, robot at the entrance" width="520">
 </p>
 
-<!-- Demo video: on github.com, edit this README and drag docs/media/maze_full_run.webm here to embed it inline. -->
+[vmc2_simulation_video.webm](https://github.com/user-attachments/assets/d33bd5e6-80e1-488e-9a0f-f94e778c9925)
+
 
 ---
 
